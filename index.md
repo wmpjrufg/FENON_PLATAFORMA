@@ -1,6 +1,6 @@
 Seja bem vindo à plataforma de ensino FENON (*Finite Element Toolbox*)
 
-Este projeto tem o objetivo discutir e criar uma plataforma de ensino de Método dos Elementos Finitos. Além de conteúdos didáticos em formato de material *online* são disponibilizados algoritmos para solução de problemas tradicioanis de engenharia como Vigas em Estado Plano de Tensões. 
+<p align="justify">Este projeto tem o objetivo discutir e criar uma plataforma de ensino de Método dos Elementos Finitos. Além de conteúdos didáticos em formato de material *online* são disponibilizados algoritmos para solução de problemas tradicioanis de engenharia como Vigas em Estado Plano de Tensões.</p> 
 
 Dados do projeto de pesquisa:
 Nome: 				Desenvolvimento de uma plataforma multidisciplinar de trabalho voltada a engenharia (**PI02801-2018**)  
