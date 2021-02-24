@@ -15,3 +15,4 @@ Coordenação:
 
 ### [CONTEÚDO]()
 ### [1.0 INTRODUÇÃO AO MÉTODO DOS ELEMENTOS FINITOS](https://wmpjrufg.github.io/FENON_PLATAFORMA/CAP_10000.html)
+### [3.0 DEDUÇÃO DO ELEMENTO DE MOLA]()
